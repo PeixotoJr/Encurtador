@@ -4,7 +4,6 @@ Created on Mon Sep  9 09:16:11 2024
 
 @author: BR0016447473
 """
-
 import streamlit as st
 import requests
 from PIL import Image
